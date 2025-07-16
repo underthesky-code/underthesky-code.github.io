@@ -1,2 +1,2 @@
-# -underthesky-code-.github.io
+# underthesky-code.github.io
 school projects 
